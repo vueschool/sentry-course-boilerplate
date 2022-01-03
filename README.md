@@ -1,19 +1,15 @@
-# Vite Vue3 Router Tailwind ESLint Prettier
+# Boilerplate Code for the Course: Application Monitoring in Vue.js with Sentry 
 
-Vite starter template that includes:
+![Course Feature Image](https://vueschool.io/media/0f4d0061e68e7ebb3b39b810d02f0126/application-monitoring-in-vuejs-with-sentry.png)
 
-* Vue 3
-* Vue Router
-* Tailwind CSS
-* ESLint
-* Prettier
-* @ import alias
 ## How to Use
 
 ```
-npx degit danielkellyio/vite-vue3-router-tailwind-eslint-prettier [project-name]
+npx degit vueschool/sentry-course-boilerplate sentry-course
 ```
 ```
 npm install
 npm run dev
 ```
+
+[Checkout the course!](https://vueschool.io/courses/application-monitoring-in-vue-js-with-sentry)
